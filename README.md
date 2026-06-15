@@ -30,5 +30,10 @@ An end-to-end data analytics project using a Zomato dataset to analyze sales per
 - KPI Creation
 - Data Storytelling
 
-## Dashboard Preview
-(Add screenshots here)
+## 📊 Dashboard Preview
+
+### Sales Performance Dashboard
+![Sales Dashboard](Sales_dashboard.png)
+
+### Customer Behaviour & Segmentation Dashboard
+![Customer Analytics Dashboard](Customer_Analytics_Dashboard.png)
